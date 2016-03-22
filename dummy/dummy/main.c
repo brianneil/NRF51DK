@@ -18,7 +18,7 @@
  * @brief    UART over BLE application main file.
  *
  * This file contains the source code for a sample application that uses the Nordic UART service.
- * This application uses the @ref srvlib_conn_params module.
+ * This application uses the @ref srvlib_conn_params module. Here's a test change for github.
  */
 
 #include <stdint.h>
